@@ -145,6 +145,6 @@ An AI-powered stock analysis app for Android.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" />
 
-<sub>Open to AI/ML, backend, and Android roles · <a href="mailto:rohitsanger1893@gmail.com">rohitsanger1893@gmail.com</a></sub>
+<sub>Open to Open to AI/ML / Software Devloper and quantum computing roles · <a href="mailto:rohitsanger1893@gmail.com">rohitsanger1893@gmail.com</a></sub>
 
 </div>
