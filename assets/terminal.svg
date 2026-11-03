@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+  <defs>
+    <clipPath id="c1"><rect x="0" y="0" width="0" height="330"><animate attributeName="width" from="0" to="900" begin="0.5s" dur="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" width="0" height="330"><animate attributeName="width" from="0" to="900" begin="2.2s" dur="1.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" width="0" height="330"><animate attributeName="width" from="0" to="900" begin="4.2s" dur="1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" width="0" height="330"><animate attributeName="width" from="0" to="900" begin="6s" dur="1.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="0" width="0" height="330"><animate attributeName="width" from="0" to="900" begin="8s" dur="1s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="328" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 15a14 14 0 0 1 14-14h870a14 14 0 0 1 14 14v26H1z" fill="#161b22"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="21" r="6" fill="#27c93f"/>
+  <text x="450" y="26" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#8b949e">rohit@iiita: ~</text>
+
+  <g font-family="Courier New, monospace" font-size="16">
+    <g clip-path="url(#c1)">
+      <text x="28" y="76"><tspan fill="#34d399">❯</tspan> <tspan fill="#e6edf3">whoami</tspan></text>
+      <text x="28" y="98" fill="#a78bfa">rohit — CS graduate, now in M.Tech</text>
+    </g>
+
+    <g clip-path="url(#c2)">
+      <text x="28" y="132"><tspan fill="#34d399">❯</tspan> <tspan fill="#e6edf3">cat education.txt</tspan></text>
+      <text x="28" y="154" fill="#38bdf8">B.Tech Computer Science (2026) · M.Tech Quantum Info &amp; Tech @ IIIT Allahabad</text>
+    </g>
+
+    <g clip-path="url(#c3)">
+      <text x="28" y="188"><tspan fill="#34d399">❯</tspan> <tspan fill="#e6edf3">ls targets/</tspan></text>
+      <text x="28" y="210" fill="#fbbf24">ai-ml/    backend-fastapi/    android/</text>
+    </g>
+
+    <g clip-path="url(#c4)">
+      <text x="28" y="244"><tspan fill="#34d399">❯</tspan> <tspan fill="#e6edf3">cat now.txt</tspan></text>
+      <text x="28" y="266" fill="#f472b6">building TradAdvise · learning quantum computing · solving problems</text>
+    </g>
+
+    <g clip-path="url(#c5)">
+      <text x="28" y="300"><tspan fill="#34d399">❯</tspan> <tspan fill="#e6edf3">echo $CONTACT</tspan> <tspan fill="#8b949e">→ github.com/ROHIT9897</tspan></text>
+    </g>
+
+    <rect x="520" y="286" width="9" height="18" fill="#e6edf3" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;1;0;1" dur="1.2s" begin="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
