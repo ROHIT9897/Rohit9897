@@ -110,7 +110,7 @@ An AI-powered stock analysis app for Android.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,kotlin,cpp,git,github,mysql, docker,androidstudio,linux, vscode,js, html, css, mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,kotlin,cpp,git,github,mysql,docker,androidstudio,linux,vscode,js,html,css,mongodb&theme=dark" />
 
 </div>
 
