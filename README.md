@@ -83,7 +83,7 @@ An AI-powered stock analysis app for Android.
 
 `Android` &nbsp; `AI` &nbsp; `Stock analysis`
 
-**[→ See it on GitHub](https://github.com/ROHIT9897)**
+**[→ See it on GitHub]([https://github.com/ROHIT9897](https://github.com/ROHIT9897/TradAdvise-Android.git))**
 
 </td>
 <td width="40%" align="center">
