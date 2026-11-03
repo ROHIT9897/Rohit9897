@@ -60,9 +60,9 @@ Right now I'm in a superposition. Open one to collapse it into a single state.
 </details>
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="assets/qubit.svg" alt="Animated qubit on a Bloch sphere" width="240" />
+<img src="assets/qubit.svg" alt="Animated qubit on a Bloch sphere" width="260" />
 
 <sub>A qubit state rotating on the Bloch sphere</sub>
 
@@ -76,7 +76,7 @@ Right now I'm in a superposition. Open one to collapse it into a single state.
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ### 📈 TradAdvise
 An AI-powered stock analysis app for Android.
@@ -86,7 +86,7 @@ An AI-powered stock analysis app for Android.
 **[→ See it on GitHub]([https://github.com/ROHIT9897](https://github.com/ROHIT9897/TradAdvise-Android.git))**
 
 </td>
-<td width="40%" align="center">
+<td width="50%" align="center">
 
 ```
   price ─╮
@@ -113,9 +113,6 @@ An AI-powered stock analysis app for Android.
 <img src="https://skillicons.dev/icons?i=py,fastapi,kotlin,cpp,git,github,mysql,docker,androidstudio,linux,vscode,js,html,css,mongodb&theme=dark" />
 
 </div>
-
-> Only keep the icons you actually use. Change the `i=` list in this link to edit them.
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📡 Signal
