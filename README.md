@@ -50,16 +50,6 @@ Right now I'm in a superposition. Open one to collapse it into a single state.
 </details>
 
 <details>
-<summary><b>|Android⟩ &nbsp;—&nbsp; mobile apps</b></summary>
-
-<br/>
-
-- Building Android apps
-- **TradAdvise** is my main independent Android project
-
-</details>
-
-<details>
 <summary><b>|Quantum⟩ &nbsp;—&nbsp; the M.Tech</b></summary>
 
 <br/>
@@ -120,7 +110,7 @@ An AI-powered stock analysis app for Android.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,kotlin,androidstudio,cpp,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,kotlin,cpp,git,github,mysql, docker,androidstudio,linux, vscode,js, html, css, mongodb&theme=dark" />
 
 </div>
 
