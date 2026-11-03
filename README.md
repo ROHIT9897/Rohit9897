@@ -62,7 +62,7 @@ Right now I'm in a superposition. Open one to collapse it into a single state.
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="assets/qubit.svg" alt="Animated qubit on a Bloch sphere" width="260" />
+<img src="assets/qubit.svg" alt="Animated qubit on a Bloch sphere" width="240" />
 
 <sub>A qubit state rotating on the Bloch sphere</sub>
 
