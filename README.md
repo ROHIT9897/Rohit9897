@@ -119,12 +119,13 @@ An AI-powered stock analysis app for Android.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ROHIT9897&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHIT9897&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+<img height="180" src="profile-summary-card-output/github_dark/3-stats.svg" />
+<img height="180" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHIT9897&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%" />
+<img height="180" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img height="180" src="profile-summary-card-output/github_dark/4-productive-time.svg" />
 
 <br/><br/>
 
@@ -142,6 +143,6 @@ An AI-powered stock analysis app for Android.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" />
 
-<sub>Open to Open to AI/ML / Software Devloper and quantum computing roles · <a href="mailto:rohitsanger1893@gmail.com">rohitsanger1893@gmail.com</a></sub>
+<sub>Open to AI/ML, software developer, and quantum computing roles · <a href="mailto:rohitsanger1893@gmail.com">rohitsanger1893@gmail.com</a></sub>
 
 </div>
