@@ -68,7 +68,7 @@
     </g>
 
     <!-- text -->
-    <text x="48" y="62" font-family="Courier New, monospace" font-size="16" fill="#94a3b8">|Rohit⟩ = |Rohit⟩ = α|Quantum⟩ + β|AI/ML⟩ + γ|Android⟩</text>
+    <text x="48" y="62" font-family="Courier New, monospace" font-size="16" fill="#94a3b8">|Rohit⟩ = α|Quantum⟩ + β|AI/ML⟩ + γ|Android⟩</text>
     <text x="46" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="url(#name)" letter-spacing="2">ROHIT</text>
     <text x="48" y="172" font-family="Courier New, monospace" font-size="17" fill="#e2e8f0">CS graduate · M.Tech Quantum Information &amp; Technology</text>
     <text x="48" y="196" font-family="Courier New, monospace" font-size="15" fill="#64748b">IIIT Allahabad<tspan fill="#38bdf8">▍</tspan>
