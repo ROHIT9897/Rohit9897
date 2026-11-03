@@ -34,9 +34,8 @@
 
   <circle cx="150" cy="150" r="3" fill="#e2e8f0"/>
 
-  <g font-family="Courier New, monospace" font-size="16" fill="#e2e8f0">
-    <text x="158" y="26">|0⟩</text>
-    <text x="158" y="288">|1⟩</text>
+  <g font-family="Courier New, monospace" font-size="16" fill="#e2e8f0" text-anchor="middle">
+    <text x="150" y="22">|0⟩</text>
+    <text x="150" y="294">|1⟩</text>
   </g>
-  <text x="150" y="298" text-anchor="middle" font-family="Courier New, monospace" font-size="1" fill="none">.</text>
 </svg>
